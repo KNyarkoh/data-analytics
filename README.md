@@ -15,7 +15,7 @@ A central portfolio repository showcasing projects in data analytics, business i
 - Procurement Spend Analytics
 - Supplier Performance Dashboard
 
-## 🏥 [Tableau Public Dashboards](https://github.com/eb-obengnyarkoh/tableau-public-dashboards)
+## 🏥 [Tableau Dashboards](https://github.com/eb-obengnyarkoh/tableau-public-dashboards)
 - A collection of interactive dashboards
 - Business intelligence, data visualization, KPI reporting, and data storytelling from various domain
  
